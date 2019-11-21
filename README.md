@@ -8,7 +8,7 @@
 2. 点击"切到 学习强国"，在强国主界面点击"开始浏览"，即可自动浏览。其中，自动浏览百灵小视频（6个），听广播（后台18分钟），看文章(10篇，每篇时长72秒)，收藏转发评论（各两次）。
 3. 答题前，建议先在微信里开启"强国挑战答题答案查询"小程序，然后切到强国答题界面，点击"开始答题"，程序会无限答题。遇到不会的题，会自动在小程序里搜索。
 4. 点击"停止"，会停止浏览和答题。
-
+[release下载](https://github.com/lgpersonal/LazyStudy/releases/download/1.0/LazyStudy_v1.0.0.apk)https://github.com/lgpersonal/LazyStudy/releases/download/1.0/LazyStudy_v1.0.0.apk
 **建议**
 
 在auto.js里运行脚本，方便修改，目前release版没有脚本版稳定
