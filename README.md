@@ -14,5 +14,6 @@
 在auto.js里运行脚本，方便修改，目前release版没有脚本版稳定
 
 **致谢**
+
 [ivanwhaf](https://github.com/ivanwhaf/xxqg-helper)
 [studyhelperhelper](https://github.com/studyhelperhelper/studyhelper)
