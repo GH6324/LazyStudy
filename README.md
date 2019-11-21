@@ -16,4 +16,8 @@
 **致谢**
 
 [ivanwhaf](https://github.com/ivanwhaf/xxqg-helper)
+
 [studyhelperhelper](https://github.com/studyhelperhelper/studyhelper)
+
+[sleepybear1113](https://github.com/sleepybear1113/taobaoVisitingVenues
+)
